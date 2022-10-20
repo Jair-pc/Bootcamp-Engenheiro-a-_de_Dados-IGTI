@@ -40,7 +40,7 @@ Banco de dados relacional na nuvem - Amazon RDB
 
 Primeira Aula Interativa
 
-# Trabalho Prático: Modelagem Relacional e Linguagem SQL (DDL e DML)
+## Trabalho Prático: Modelagem Relacional e Linguagem SQL (DDL e DML)
 
  
 
@@ -68,4 +68,4 @@ Prática: Modelo dimensional de dados
 
 Segunda Aula Interativa
 
-# Desafio: Atividade de modelagem e uso da linguagem SQL.
+## Desafio: Atividade de modelagem e uso da linguagem SQL.

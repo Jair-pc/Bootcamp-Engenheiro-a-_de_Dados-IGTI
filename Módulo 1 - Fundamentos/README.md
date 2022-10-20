@@ -5,7 +5,7 @@
 Fundamentos em Engenharia de Dados
 
  
-*Capítulo 1.* Conceitos fundamentais de Big Data:
+**Capítulo 1.** Conceitos fundamentais de Big Data:
 
 Dados, fontes de dados e tipos de dados
 Conceito e características de big data
@@ -16,7 +16,7 @@ Pipeline de dados do Big Data e de Engenharia de Dados
 Visão geral dos principais tipos de análise de dados
  
 
-Capítulo 2. Modelagem de Dados
+**Capítulo 2.** Modelagem de Dados
 
 Fundamentos de banco de dados
 Modelo de dados conceitual
@@ -28,7 +28,7 @@ Instalação do MySQL Workbench e MySQL Server
 Modelagem de dados utilizando o MySQL Workbench
  
 
-Capítulo 3. Linguagem SQL
+**Capítulo 3.** Linguagem SQL
 
 Introdução à Linguagem SQL
 Linguagem de Definição de Dados (DDL)
@@ -44,7 +44,7 @@ Primeira Aula Interativa
 
  
 
-Capítulo 4. Linguagem SQL: Linguagem de consulta de Dados (DQL)
+**Capítulo 4.** Linguagem SQL: Linguagem de consulta de Dados (DQL)
 
 Selecionando Dados (SELECT FROM, DISTINCT, ORDER BY, Operadores Aritméticos, Concatenação)
 Filtrando Dados (WHERE, LIKE, BETWEEN, IS NULL, IS NOT NULL)
@@ -58,7 +58,7 @@ Observação: As aulas práticas alternam entre utilizar o MySQL Workbench e o D
 
  
 
-Capítulo 5. Data warehouse e modelagem dimensional
+**Capítulo 5.** Data warehouse e modelagem dimensional
 
 Introdução ao data warehousing
 Online Analytical Processing

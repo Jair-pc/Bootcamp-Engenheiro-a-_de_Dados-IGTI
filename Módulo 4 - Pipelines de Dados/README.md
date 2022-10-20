@@ -4,9 +4,12 @@
 
 ## Objetivos:
 
+`Voltar ao Início:` [Acesse aqui](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI)
+</br></br>
+
 Pipelines de Dados
 
-Capítulo 1 Visual geral do pipeline de ciência de dados
+**Capítulo 1** - Visual geral do pipeline de ciência de dados
 
  1.1      Dados, fontes de dados, Big data e tipos de dados
 
@@ -14,7 +17,7 @@ Capítulo 1 Visual geral do pipeline de ciência de dados
 
  
 
-Capítulo 2 Extração de dados - ENADE - INEP - Ministério da Educação
+**Capítulo 2** - Extração de dados - ENADE - INEP - Ministério da Educação
 
 2.1       Extração automatizada dos dados
 
@@ -24,7 +27,7 @@ Capítulo 2 Extração de dados - ENADE - INEP - Ministério da Educação
 
  
 
-Capítulo 3 Extração de dados - Prática - Twitter API
+**Capítulo 3** - Extração de dados - Prática - Twitter API
 
 3.1       Configurando uma conta de DEV no Twtiter
 
@@ -34,7 +37,7 @@ Capítulo 3 Extração de dados - Prática - Twitter API
 
  
 
-Capítulo 4 Transformação de dados - Prática - Organização e Tratamento dos dados
+**Capítulo 4** - Transformação de dados - Prática - Organização e Tratamento dos dados
 
 4.1       Entendendo o formato do tweet - JSON
 
@@ -46,7 +49,7 @@ Capítulo 4 Transformação de dados - Prática - Organização e Tratamento dos
 
  
 
-Trabalho Prático 
+## Trabalho Prático 
 
  ✔ Extração de Dados;
 
@@ -55,7 +58,7 @@ Trabalho Prático
  ✔ Transformações e análise de dados.
 
 
-Capítulo 5 Soluções de ETL
+**Capítulo 5** - Soluções de ETL
 
 5.1    Introdução às Soluções de ETL
 
@@ -71,7 +74,7 @@ Capítulo 5 Soluções de ETL
 
  
 
-Capítulo 6 Data Flow na prática - AirFlow
+**Capítulo 6** - Data Flow na prática - AirFlow
 
 6.1       Instalação do AirFlow
 
@@ -89,7 +92,7 @@ Capítulo 6 Data Flow na prática - AirFlow
 
  
 
-Capítulo 7 Data Flow na prática - Prefect
+**Capítulo 7** - Data Flow na prática - Prefect
 
 7.1       Configuração do ambiente Prefect na nuvem
 
@@ -107,7 +110,7 @@ Capítulo 8 Pipelines de Dados near real time com Kafka
 
   
 
-Desafio 
+## Desafio 
 
  ✔ Desenvolvimento de crawlers;
 

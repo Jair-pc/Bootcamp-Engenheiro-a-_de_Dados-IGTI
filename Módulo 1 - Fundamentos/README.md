@@ -5,7 +5,7 @@
 Fundamentos em Engenharia de Dados
 
  
-Capítulo 1. Conceitos fundamentais de Big Data:
+*Capítulo 1.* Conceitos fundamentais de Big Data:
 
 Dados, fontes de dados e tipos de dados
 Conceito e características de big data

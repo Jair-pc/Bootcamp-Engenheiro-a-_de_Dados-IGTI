@@ -21,5 +21,5 @@ Assim possibiliou que pudesse estudar através de desafios semanais sucessivos q
 
 ## Trilha do bootcamp
 
-[![](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI/blob/master/Trilha%20Engenharia%20de%20Dados.png)
+![](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI/blob/master/Trilha%20Engenharia%20de%20Dados.png)
 

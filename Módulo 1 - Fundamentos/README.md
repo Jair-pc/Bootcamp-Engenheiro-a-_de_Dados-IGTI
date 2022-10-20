@@ -1,7 +1,7 @@
 # Módulo 1 - Fundamentos
 ## Objetivos:
 
-`Inicio:` [Acesse aqui](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI)
+`Voltar ao Início:` [Acesse aqui](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI)
 </br></br>
 
 Fundamentos em Engenharia de Dados

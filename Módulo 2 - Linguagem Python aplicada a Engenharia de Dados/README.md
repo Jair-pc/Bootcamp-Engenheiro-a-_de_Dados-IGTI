@@ -3,11 +3,14 @@
 
 ## Objetivos:
 
+`Voltar ao Início:` [Acesse aqui](https://github.com/Jair-pc/Bootcamp-Engenheiro_de_Dados-IGTI)
+</br></br>
+
 Conceitos fundamentais: 
 
 Python para a Análise de Dados
 
-Capítulo 1. Introdução à análise de dados
+**Capítulo 1.** Introdução à análise de dados
 
 1.1 Apresentação da disciplina
 
@@ -15,7 +18,7 @@ Capítulo 1. Introdução à análise de dados
 
  
 
-Capítulo 2. Numpy para a análise de dados
+**Capítulo 2.** Numpy para a análise de dados
 
 2.1 Introdução aos arrays
 
@@ -43,7 +46,7 @@ Capítulo 2. Numpy para a análise de dados
 
  
 
-Capítulo 3. Pandas para a análise de dados
+**Capítulo 3.** Pandas para a análise de dados
 
 3.1 Introdução ao pandas
 
@@ -64,7 +67,7 @@ Capítulo 3. Pandas para a análise de dados
 3.9 Dicas gerais sobre o Pandas − Prática
 
  
-# Trabalho Prático
+## Trabalho Prático
 
 ✓ Criação e manipulação de numpy arrays.
 
@@ -73,7 +76,7 @@ Capítulo 3. Pandas para a análise de dados
 ✓ Fundamentos de aprendizado de máquinas.
 
 
-Capítulo 4. Introdução ao aprendizado de máquinas
+**Capítulo 4.** Introdução ao aprendizado de máquinas
 
 4.1 Introdução ao aprendizado de máquinas
 
@@ -87,6 +90,6 @@ Capítulo 4. Introdução ao aprendizado de máquinas
 
 4.6 Regressão linear no scikit-learn II - Prática
 
-# Desafio
+## Desafio
 
 ✓ Realizar a análise de uma base de dados real em Python.

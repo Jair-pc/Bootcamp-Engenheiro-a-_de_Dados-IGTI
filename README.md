@@ -11,7 +11,7 @@
 bootcamp: [https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados?evento=data_universe](https://www.xpeducacao.com.br/bootcamp/engenheiro-de-dados?evento=data_universe)
 </br></br>
 
-Este bootcamp da [IGTI](https://www.xpeducacao.com.br/), tem como objetivo abordar de forma intensiva conceitos e práticas de engenharia de dados, habilitando o aluno para atuar profissionalmente na área.</br>
+Este bootcamp da Xpe Educação (https://www.xpeducacao.com.br/), tem como objetivo abordar de forma intensiva conceitos e práticas de engenharia de dados, habilitando o aluno para atuar profissionalmente na área.</br>
 Assim possibiliou que pudesse estudar através de desafios semanais sucessivos que evoluem em complexidade e abrangência.
 
 
